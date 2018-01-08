@@ -57,3 +57,5 @@ typings/
 # dotenv environment variables file
 .env
 
+# Zapier CLI output
+build
